@@ -1,2 +1,3 @@
 We're learning the concept of branches
 hi there
+three states of a file
